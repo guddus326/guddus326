@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0c2&text=%20HamHyeongYeon%20&height=250&fontSize=65)
 
-[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=coolcoolzzzzzz)](https://https://coolcoolzzzzzz.tistory.com//)  
-
 ## 📄 I'm learning about
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/java-ffc0c2?style=flat-square&logo=java&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/spring-ffc0c2?style=flat-square&logo=spring&logoColor=white"/></a>
